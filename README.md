@@ -1,2 +1,2 @@
-I created end point for get ,post, delete and update.
-using rest client extension i checked get and post request.
+I created end point for get ,post and delete 
+using postman tool i checked given condition .It works.
